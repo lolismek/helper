@@ -19,3 +19,5 @@ Deep learning -- uitati-va si pe arhitecturi de retele recurente
 Transformeri
 
 https://triangleinequality.wordpress.com/2013/09/08/basic-feature-engineering-with-the-titanic-data/ (feature engineering)
+
+Outliers!!!
